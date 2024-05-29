@@ -213,6 +213,9 @@ h3 {
   width: 69.2rem;
   margin-top: 3.5rem;
 }
+.story p span {
+  color: #f6ec3d;
+}
 h4 {
   font-family: "TAEBAEKmilkyway";
   font-size: 3.5rem;
